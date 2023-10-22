@@ -52,6 +52,9 @@ h3{
 p{
     font-size:1.5em;
     color:white;
+}
+
+p.ex1{
     padding-left:20%;
     padding-right:20%;
 }

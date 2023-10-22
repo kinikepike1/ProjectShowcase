@@ -1,3 +1,5 @@
+## Kickstarter Success Analysis
+
 ### Summary
 My goal with this project is to find which category and subcategory of project that has the highest likelihood of successfully funding during its campaign as well as creating a model with a high accuracy of predicting the success of a campaign.
 

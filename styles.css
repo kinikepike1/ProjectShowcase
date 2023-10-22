@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
 body{ 
     background-color:black;
-    padding:15px;
     font-family:Kanit;
     color:white;
     font-weight:500;
@@ -52,9 +51,6 @@ h3{
 p{
     font-size:1.5em;
     color:white;
-}
-
-p.ex1{
     padding-left:20%;
     padding-right:20%;
 }

@@ -8,7 +8,7 @@ output: pdf_document
 ## I. Use R to calculate the covariance of the Survey variables and provide an explanation of why you would use this calculation and what the results indicate.
 
 ```{R}
-setwd('C://Users/minij/OneDrive/Desktop/Bellevue EDU/DSC520 Stats for DS/Week 7')
+setwd('C://current/directory')
 library(ppcor)
 survey <- read.csv('student-survey.csv')
 tv_read <- cor(survey['TimeReading'],survey['TimeTV'])

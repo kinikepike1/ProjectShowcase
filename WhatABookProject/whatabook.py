@@ -5,7 +5,7 @@ import re
 
 config = {
     "user":"whatabook_user",
-    "password":"MySQL8IsGreat!",
+    "password":"**************",
     "host":"127.0.0.1",
     "database":"whatabook",
     "raise_on_warnings":True

@@ -10,4 +10,4 @@ A data exploration, decision tree classifier, as well as a linear model were use
 
 ![Vis](../Images/Lego.png "Lego Set Scatterplot")
 
-<a href="https://github.com/kinikepike1/ProjectShowcase/edit/main/LegoPriceAnalysis" target="_blank" rel="noopener noreferrer">Full repo</a>
+<a href="https://github.com/kinikepike1/ProjectShowcase/tree/main/LegoPriceAnalysis" target="_blank" rel="noopener noreferrer">Full repo</a>

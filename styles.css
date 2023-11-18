@@ -22,7 +22,7 @@ body{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    margin:20px;
+    margin-bottom:20px;
 }
 
 .button:hover {

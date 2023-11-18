@@ -10,4 +10,4 @@ Card effects, power, and toughness were used in this analysis via linear regress
 
 ![Vis](../Images/P+T_CMC.png "MtG CMC Scatterplot")
 
-<a href="https://github.com/kinikepike1/ProjectShowcase/MTG_CMC_Analysis" target="_blank" rel="noopener noreferrer">Full repo</a>
+<a href="https://github.com/kinikepike1/ProjectShowcase/tree/main/MTG_CMC_Analysis" target="_blank" rel="noopener noreferrer">Full repo</a>

@@ -6,7 +6,7 @@ Magic the Gathering (MtG) is a collectable card game in which most cards have a 
 
 ## Analysis
 
-Card effects, power, and toughness were used in this analysis via linear regression. 
+Card effects, power, and toughness were used in the MtG_Analysis via linear regression. Full code and analysis included.
 
 ![Vis](../Images/P+T_CMC.png "MtG CMC Scatterplot")
 

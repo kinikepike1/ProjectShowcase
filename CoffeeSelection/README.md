@@ -9,4 +9,6 @@ The data used for this project is public domain and is hosted on Kaggle. Feature
 ## Analysis
 Linear regression was used for this project. Initial analysis of the model’s accuracy concluded that this would be a poor prediction model due to it possessing a 15-30% accuracy depending of train/test split. The model was created and tested 1000 times in order to record features with the highest and lowest correlation coefficients. Of the eighty-six features, two were within the top five highest correlation coefficients 95% of the time and one was in the top five lowest correlation coefficients 93% of the time. 
 
-<a href="https://github.com/kinikepike1/ProjectShowcase/tree/main/CoffeeSelection" target="_blank" rel="noopener noreferrer">Full repo</a>
+![Vis](../Images/coffee_rating_vis.png "Rating to Price Comparison")
+
+<a href="https://github.com/kinikepike1/ProjectShowcase/tree/main/CoffeeSelection/final_coffee-selection_white_paper_KDF.docx" target="_blank" rel="noopener noreferrer">Full Whitepaper</a>

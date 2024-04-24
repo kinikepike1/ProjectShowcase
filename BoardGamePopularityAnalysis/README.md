@@ -8,4 +8,6 @@ This project is designed to distinguish which attributes of a board game could l
 
 Raw R markdown as well as PDF version of code included. Code shows process of cleaning, transforming, merging, modeling, and plotting data in order to come to conclusions on what mechanics and other attribute can lead to a board game receiving a positive rating on BoardGameGeek.
 
-<a href="https://github.com/kinikepike1/ProjectShowcase/tree/main/BoardGamePopularityAnalysis" target="_blank" rel="noopener noreferrer">Full repo</a>
+![Vis](../Images/bg.png "Linear Regression")
+
+<a href="https://github.com/kinikepike1/ProjectShowcase/tree/main/BoardGamePopularityAnalysis/KFox_Term_Project.pdf" target="_blank" rel="noopener noreferrer">Full Writeup</a>

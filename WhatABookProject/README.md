@@ -10,4 +10,4 @@ This project was done to meet requirements for Bellevue University's Data Securi
 
 Python was used for this project and some credetials have been removed for security purposes.
 
-<a href="https://github.com/kinikepike1/ProjectShowcase/tree/main/WhatABookProject" target="_blank" rel="noopener noreferrer">Full repo</a>
+<a href="https://github.com/kinikepike1/ProjectShowcase/tree/main/WhatABookProject/WhatABook_SQL_Creation.pdf" target="_blank" rel="noopener noreferrer">SQL Creation Documentation</a>

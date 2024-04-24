@@ -11,4 +11,6 @@ Designed to bring attention to the increase in flyers within the last ten years.
 
 Various graphs and charts that help in understanding and presenting the data in question.
 
+![Vis](../Images/flight_dashboard.png "Dashboard")
+
 <a href="https://github.com/kinikepike1/ProjectShowcase/tree/main/AirlineSafetyVisualization" target="_blank" rel="noopener noreferrer">Full repo</a>

@@ -11,4 +11,4 @@ Logistic regression used for this project. The model maintained a prediction acc
 
 ![Vis](../Images/kickstarter_vis.png "Confusion Matrix")
 
-<a href="https://github.com/kinikepike1/ProjectShowcase/tree/main/KickstarterSuccessAnalysis" target="_blank" rel="noopener noreferrer">Full repo</a>
+<a href="https://github.com/kinikepike1/ProjectShowcase/tree/main/KickstarterSuccessAnalysis/KickstarterSuccess.pdf" target="_blank" rel="noopener noreferrer">Full Writeup</a>
